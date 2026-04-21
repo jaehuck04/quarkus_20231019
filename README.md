@@ -33,13 +33,14 @@ HTML/CSS + Bootstrap5<br>
 LOL 웹사이트<br><br>
 
 4 ~ 5주차:<br>
-하이퍼링크 <a href="#">...</a>, target 속성<br>
-상대경로/절대경로<br>
+하이퍼링크 <a href=""></a>, target -> "_self", "_blank", "_parent", "_top"<br>
+상대경로: 상위 파일(../), 하위 파일(/), 같은 위치의 파일(./ 또는 생략)<br>
+절대경로: http:// 등<br>
 Bootstrap5 네비게이션바/카드/모달<br>
 서브 페이지 구현<br><br>
 
 6 ~ 7주차:<br>
-JS 기본 문법(let/const/var, 호이스팅)<br>
-JS 동작 과정(Stack, WebAPIs, EventLoop)<br>
-DOM/EVENT 함수(getElementById, querySelector, addEventListener)<br>
-실시간 챔피언 검색 기능 구현<br>
+JS 기본 문법: let/const/var, 호이스팅 등<br>
+JS 동작 과정: Stack, WebAPIs, TaskQueue, EventLoop 등<br>
+JS DOM/EVENT 함수: document.getElementById, document.query.Selctor, addEvetnListener 등<br>
+실시간 챔피언 검색하기(1)/(2) 구현<br><br>
