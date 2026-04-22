@@ -33,7 +33,7 @@ HTML/CSS + Bootstrap5<br>
 LOL 웹사이트<br><br>
 
 4 ~ 5주차:<br>
-하이퍼링크 <a href=""></a>, target -> "_self", "_blank", "_parent", "_top"<br>
+하이퍼링크 <a href></a>, target: "_self", "_blank", "_parent", "_top"<br>
 상대경로: 상위 파일(../), 하위 파일(/), 같은 위치의 파일(./ 또는 생략)<br>
 절대경로: http:// 등<br>
 Bootstrap5 네비게이션바/카드/모달<br>
